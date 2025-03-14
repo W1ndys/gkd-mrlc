@@ -16,7 +16,7 @@ https://registry.npmmirror.com/gkd-mrlc/latest/files
 
 ##
 
-当前版本: v10
+当前版本: v11
 
 当前订阅文件已适配 798 个应用，共有 1871 应用规则组，3 全局规则组
 
