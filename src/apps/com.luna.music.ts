@@ -111,9 +111,9 @@ export default defineGkdApp({
         {
           preKeys: [0],
           key: 1,
-          name: '点击"坚持退出"',
+          name: '点击"领取奖励"',
           fastQuery: true,
-          matches: '[text="坚持退出"]',
+          matches: '[text="领取奖励"]',
           snapshotUrls: 'https://i.gkd.li/i/13613184',
         },
       ],
