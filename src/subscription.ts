@@ -20,9 +20,9 @@ apps.forEach((appConfig) => {
 
 export default defineGkdSubscription({
   id: 2,
-  name: 'Mrlc的订阅-不得转发和传播',
+  name: 'W1ndys fork  Mrlc的订阅-不得转发和传播',
   version: 0,
-  author: 'Mrlc',
+  author: 'W1ndys fork Mrlc',
   checkUpdateUrl: './gkd.version.json5',
   supportUri: 'https://github.com/mrlctate/gkd-mrlc/issues/new/choose',
   categories,
